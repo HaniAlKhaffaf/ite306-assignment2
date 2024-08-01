@@ -1,7 +1,6 @@
 #!/bin/bash
 
 #Hani Amer - ha20-00431
-#Ali Ameer - aa19-00110
 
 
 # Step 1: Create a Debian based container on LXD. we chose to Debian Bookworm.
